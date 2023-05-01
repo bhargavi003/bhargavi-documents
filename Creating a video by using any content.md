@@ -10,7 +10,6 @@ This guide outlines the steps involved in creating a video using any content, in
     
 **4**.  **Creating Transcript:**
     
-
 -   Creating Transcript in Word:
     -   Download the required video from Vimeo.
     -   Open an online MS Word in Chrome and open a blank document.
@@ -23,7 +22,7 @@ This guide outlines the steps involved in creating a video using any content, in
     -   Screenshot by Gyazo.
     -   Copy the text and paste the matter in the original transcript column of the recording instruction sheet in the required component tracker.
 
-**5**.  **Image Insert Instruction:** Insert the content and images into the animation PPT for image insert instructions, using the generic template. Create image-insertion instructions in the Google Sheets tracker, providing instructions for the source PowerPoint slide, slide ID, operation, object, target slide ID, and location.
+**5**.  **Image Insert Instruction:** Insert the content and images into the animation PPT for image insert instructions, using the generic template. Create image-insertion instructions in the Google  Sheets tracker, providing instructions for the source PowerPoint slide, slide ID, operation, object, target slide ID, and location.
     
 **6**.  **Image Insertion:** Insert the images into the animation PPT as per the image insert instruction sheet.
     
@@ -33,7 +32,6 @@ This guide outlines the steps involved in creating a video using any content, in
     
 **9**.  **Animation Timestamps:**
     
-
 -   Prepare the base transcripts and put the transcripts in the recording-instructions sheet.
 -   After done the original transcript, add the animation timestamp based on the video and transcript.
 -   Note the time whenever the text appears, such as 00:00:10.
@@ -47,21 +45,21 @@ You can find training videos for some of the steps mentioned above at the follow
 -   Image insert instructions training video: [https://vimeo.com/582847807](https://vimeo.com/582847807)
     
 
-**11. Animation apply**
+**11. Animation apply:**
 
 1.  Here apply the animation by giving the animation timestamps to the content and images in animation ppt.
     
 2.  Once the animation apply is done for all the content in PPT check once by doing slide show.
     
 
-**12. exporting the video**
+**12. Exporting the video:**
 
 1.  Go to file option in the animation ppt and click export option.
     
-2.  choose the video resolution,
+2.  Choose the video resolution.
     
-3.  change the Seconds spent on each slide to 01.00
+3.  Change the Seconds spent on each slide to 01.00.
     
-4.  click on create video, save it in your system.
+4.  Click on create video, save it in your system.
     
-5.  wait until the exporting finishes.
+5.  Wait until the exporting finishes.
